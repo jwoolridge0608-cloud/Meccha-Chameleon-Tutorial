@@ -1,19 +1,18 @@
 # Meccha-Chameleon-Tutorial
 
 ## Project Description
-What did you make? 
+ 
 A responsive beginner tutorial interface for Meccha Chameleon.
 
 ## Intended User or Player
-Who is this interface designed for?
+
 New players who are learning the game for the first time.
 
 ## User / Player Goal
-What should the user or player be able to do or understand?
+
 Should be able to understand the game's controls and mechanics before playing for the first time.
 
 ## Inspiration Interfaces
-List the inspiration interfaces you used and briefly explain what you learned from them.
 
 • Video Game Tutorial Screens
   - One mechanic per section
@@ -41,9 +40,9 @@ List the inspiration interfaces you used and briefly explain what you learned fr
 - GitHub Pages
 
 ## Credits
-List any tutorials, assets, images, icons, fonts, tools, or outside resources used.
+
 Google Fonts & My Own Gameplay GIFs
 
 ## Future Improvements
-What would you improve or add with more time?
+
 I would add more game based images, icons, animations, and sound effects
