@@ -14,15 +14,15 @@ Should be able to understand the game's controls and mechanics before playing fo
 
 ## Inspiration Interfaces
 
-• Video Game Tutorial Screens
+Video Game Tutorial Screens
   - One mechanic per section
   - Images with short descriptions
 
-• Game Control Guides
+Game Control Guides
   - Clear Controls Stated
   - Organized information
 
-• Creative Learning Interfaces
+Creative Learning Interfaces
   - Bright colors
   - Friendly cards
 
