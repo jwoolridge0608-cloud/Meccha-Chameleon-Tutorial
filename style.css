@@ -79,6 +79,12 @@ nav a:hover{
     transform:scale(1.05);
 }
 
+.card ul {
+    margin-top: 10px;
+    padding-left: 30px;
+    text-align: left;
+}
+
 .card{
 
     display:flex;
